@@ -1,0 +1,1 @@
+"Premake/premake5" --file=generate.lua vs2019
